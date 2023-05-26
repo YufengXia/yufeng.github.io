@@ -10,49 +10,17 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+**RESEARCH PROJECTS**
+
+- 2021.2-3  **Climate Change Audience Classification and Climate Narratives** (partner: U.S. Energy Foundation)
+
+  Participate in project preparation, negotiation and project documentation
+
+- 2019.4–2020.1 **Study on Impact Evaluation Index System of Credit Service Websites** (partner: National Credit Center)
+
+  Led the group of students to participate in the preparation, opening, interview and report writing of the project, and transformed the content of the evaluation index into an academic article, which was selected for the IAMCR conference
+
+- 2018.12–2019.6 **Mechanisms of Influence of Citizens' Online Anti-Corruption Claims on China's Anti-Corruption Actions** (Co-author: Prof. Tianguang Meng, Associate Dean, School of Social Sciences, Tsinghua University)
+
+  By analyzing the content of posts involving anti-corruption demands on the People's Daily Online "Local Leaders' Message Board" and the data of anti-corruption actions in the same period, to explore the influence of citizens' online anti-corruption demands on China's anti-corruption actions
