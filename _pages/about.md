@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Tsinghua University</a>.
+subtitle: <a href='#'>PhD Student, Tsinghua University</a>
 
 profile:
   align: right
@@ -18,9 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello! I am Yufeng Xia, a PhD student from **[the School of Journalism and Communication at Tsinghua University (China)](https://www.tsjc.tsinghua.edu.cn/en/)**, and will graduate in June 2023. My research areas are **political communication and environmental communication**. I focus on **content design and media effect of social media**, with three papers accepted by ICA and IAMCR conferences and two studies about higher education published in leading China's journals, as well as serving as reviewers for both conferences. I specialize in data-driven communication research.
+Hello! I am Yufeng Xia, a PhD student from **[the School of Journalism and Communication at Tsinghua University (China)](https://www.tsjc.tsinghua.edu.cn/en/)**, and will graduate in June 2023. My research areas are **political communication and environmental communication**. I focus on **content design and media effect of social media**, with three papers accepted by ICA and IAMCR conferences and two studies about higher education published in leading China's journals, as well as serving as reviewers for both conferences. I specialize in quantitative communication research.
 
-The title of my doctoral dissertation is ***Climate Communication and Citizen Participation in Climate Change Public Sphere***. This dissertation explores how the public sphere of climate change in China is constructed and developed through social media, driven by the state and the public, and it does so from the perspectives of macro-level national climate governance, meso-level climate policy debates, and micro-level media effects, respectively.
+The title of my doctoral dissertation is ***Climate Communication and Citizen Participation in Climate Change Public Sphere***. It explores how the public sphere of climate change in China is constructed and developed through social media, driven by the state and the public, and it analyze the topic from the perspectives of macro-level national climate governance, meso-level climate policy debates, and micro-level media effects.
 
 ***I'm looking for faculty or postdoctoral position recently.***
 
@@ -50,12 +50,12 @@ The title of my doctoral dissertation is ***Climate Communication and Citizen Pa
 
 - **Yufeng Xia**. "State Governance and Citizen Engagement in Climate Communication: The Case of Chinese Government Microblogs." ***Annual ICA Conference Political Communication Pre-Conference 2023***. 
 
-   *(Both ICA and IAMCR conferences are international top-level conferences)*
+   *(Both ICA and IAMCR conferences are top-level international conferences)*
 
 **Chinese Articles**
 
 - Qingwei Lian, Yanni Ren & **Yufeng Xia.** (2019). [A Practical Approach to College Online Ideological and Political Education–Analysis of "A Letter to Youth" on Social Media of People's Daily](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iLik5jEcCI09uHa3oBxtWoI6wGNpGCwXcLLIgl5AZM26joQgqE5c6gzNHTSiFLQ1w&uniplatform=NZKPT&src=copy). *Higher Education Exploration*, 000(006), 101-105,111. (CSSCI)
-- Jiuli Ruan, Yin Wu & **Yufeng Xia**. (2023). Foreign Journalism and Communication Education in the Context of All-Media Era. *Journal of Education and Media Studies*. (AMI, In the process of publication)
+- Jiuli Ruan, Yin Wu & **Yufeng Xia**. (2023). Foreign Journalism and Communication Education in the Context of All-Media Era. *Journal of Education and Media Studies*. (AMI, forthcoming)
 
 **BOOKS** 
 
@@ -71,5 +71,5 @@ The title of my doctoral dissertation is ***Climate Communication and Citizen Pa
 **WORKING ABILITIES**
 
 -  **Software and Programming Languages:** SPSS, R, Python, Gephi, Tableau, Mindmanager
--  **English:** High Score in TOEFL Speaking Section, Second Prize in National English Contest
+-  **English:** High Score in TOEFL Speaking Section, Second Prize in China's National English Contest
 -  **Cantonese, Mandarin Chinese**: Native
