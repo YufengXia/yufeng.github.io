@@ -70,6 +70,12 @@ The title of my doctoral dissertation is ***Climate Communication and Citizen Pa
 
 **WORKING ABILITIES**
 
--  **Software and Programming Languages:** SPSS, R, Python, Gephi, Tableau, Mindmanager
--  **English:** High Score in TOEFL Speaking Section, Second Prize in China's National English Contest
--  **Cantonese, Mandarin Chinese**: Native
+- **Software and Programming Languages:** SPSS, R, Python, Gephi, Tableau, Mindmanager
+- **English:** High Score in TOEFL Speaking Section, Second Prize in China's National English Contest
+- **Cantonese, Mandarin Chinese**: Native
+
+**CONTACT**
+
+-  **E-mail**: yufeng.yfxia@gmail.com
+-  **Twitter**: <a href="https://twitter.com/YfYufeng" target="_blank">@YfYufeng</a>
+
