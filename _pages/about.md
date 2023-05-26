@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>yufeng.xia@outlook.com</p>
+    <p>yufeng.yfxia@gmail.com</p>
     <p>Twitter: <a href="https://twitter.com/YfYufeng" target="_blank">@YfYufeng</a></p>
     <p>Tsinghua University, China</p>
 
