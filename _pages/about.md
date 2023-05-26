@@ -44,11 +44,11 @@ The title of my doctoral dissertation is ***Climate Communication and Citizen Pa
 
 - **Yufeng Xia**. "The Impact of Frames on User Engagement and Citizen Comments in Climate Change Communication: The Case of Chinese Government Social Media." ***Annual ICA Conference 2023***.
 
+- **Yufeng Xia**. "Frame Adoption and Framing Effects in Climate Communication: The Case of Chinese Government Microblogs." ***ICA Environmental Communication Pre-Conference PhD Mentoring Workshop 2023***. 
+
 - **Yufeng Xia**. "Framing Corruption News: The Emotional Effects of News Frames on Corruption Perception, Political Trust and Government Image." ***Annual IAMCR Conference 2023***.
 
 - **Yufeng Xia,** and Fanxu Zeng. "Democratic E-governance Website Evaluation Model for China: Considering Communication as The Effective Approach." ***Annual IAMCR Conference 2020***. 
-
-- **Yufeng Xia**. "State Governance and Citizen Engagement in Climate Communication: The Case of Chinese Government Microblogs." ***Annual ICA Conference Political Communication Pre-Conference 2023***. 
 
    *(Both ICA and IAMCR conferences are top-level international conferences)*
 
