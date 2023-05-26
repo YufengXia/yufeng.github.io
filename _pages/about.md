@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello! I am Yufeng Xia, a PhD student from the School of Journalism and Communication at Tsinghua University (China), and will graduate in June 2023. My research areas are political communication and environmental communication. I focuse on content design and media effect of social media, with three papers accepted by ICA and IAMCR conferences and two studies about higher education published in leading China's journals, as well as serving as reviewers for both conferences. I specialize in data-driven communication research.
+Hello! I am Yufeng Xia, a PhD student from **[the School of Journalism and Communication at Tsinghua University (China)](https://www.tsjc.tsinghua.edu.cn/en/)**, and will graduate in June 2023. My research areas are **political communication and environmental communication**. I focus on **content design and media effect of social media**, with three papers accepted by ICA and IAMCR conferences and two studies about higher education published in leading China's journals, as well as serving as reviewers for both conferences. I specialize in data-driven communication research.
 
 The title of my doctoral dissertation is ***Climate Communication and Citizen Participation in Climate Change Public Sphere***. This dissertation explores how the public sphere of climate change in China is constructed and developed through social media, driven by the state and the public, and it does so from the perspectives of macro-level national climate governance, meso-level climate policy debates, and micro-level media effects, respectively.
 
@@ -37,16 +37,19 @@ The title of my doctoral dissertation is ***Climate Communication and Citizen Pa
 
   *(Ranking 3/60, GPA 3.7/4.0)*
 
-  *Three universities and majors are among the top in China*
+  **Three universities and majors are among the top in China*
 
 **PUBLICATION** 
 
 - **Yufeng Xia**. "The Impact of Frames on User Engagement and Citizen Comments in Climate Change Communication: The Case of Chinese Government Social Media." ***Annual ICA Conference 2023***.
+
 - **Yufeng Xia**. "Framing Corruption News: The Emotional Effects of News Frames on Corruption Perception, Political Trust and Government Image." ***Annual IAMCR Conference 2023***.
+
 - **Yufeng Xia,** and Fanxu Zeng. "Democratic E-governance Website Evaluation Model for China: Considering Communication as The Effective Approach." ***Annual IAMCR Conference 2020***. 
+
 - **Yufeng Xia**. "State Governance and Citizen Engagement in Climate Communication: The Case of Chinese Government Microblogs." ***Annual ICA Conference Political Communication Pre-Conference 2023***. 
 
- *(Both ICA and IAMCR conferences are international top-level conferences)*
+   *(Both ICA and IAMCR conferences are international top-level conferences)*
 
 **Chinese Articles**
 
@@ -55,5 +58,17 @@ The title of my doctoral dissertation is ***Climate Communication and Citizen Pa
 
 **BOOKS** 
 
-- 2020.8-2021.2 Participated in the writing and proofreading of the textbook *Elementary News Writing Course* (Editor-in-chief: Prof. Fanxu Zeng, Tsinghua University)
-- 2021.9-2022.2 Pre-publication editing and proofreading of *[Environmental Risk Communication in China](https://www.routledge.com/Environmental-Risk-Communication-in-China-Actors-Issues-and-Governance/Dai-Zeng/p/book/9781032103303)* (Editors: Prof. Fanxu Zeng & Prof. Jia Dai, Tsinghua University)
+- 2020.8-2021.2 Participated in the writing and proofreading of the textbook *Elementary News Writing Course* (Editor-in-chief: Prof. [Fanxu Zeng](https://www.tsjc.tsinghua.edu.cn/en/info/1029/1302.htm), Tsinghua University)
+- 2021.9-2022.2 Pre-publication editing and proofreading of *[Environmental Risk Communication in China](https://www.routledge.com/Environmental-Risk-Communication-in-China-Actors-Issues-and-Governance/Dai-Zeng/p/book/9781032103303)* (Editors: Prof. [Fanxu Zeng](https://www.tsjc.tsinghua.edu.cn/en/info/1029/1302.htm) & [Prof. Jia Dai](https://www.tsjc.tsinghua.edu.cn/en/info/1029/1295.htm), Tsinghua University)
+
+**PROFESSIONAL POSITIONS**
+
+- 2015.5–2016.8 **Research Assistant (Administrative Staff), Big Data & Communication Lab**, Sun Yat-Sen University
+
+  Participated in data analysis and visualization project, recruited 50 student assistants for the newly established lab, and conducted team formation, module management, project implementation and progress monitoring based on company management model
+
+**WORKING ABILITIES**
+
+-  **Software and Programming Languages:** SPSS, R, Python, Gephi, Tableau, Mindmanager
+-  **English:** High Score in TOEFL Speaking Section, Second Prize in National English Contest
+-  **Cantonese, Mandarin Chinese**: Native
