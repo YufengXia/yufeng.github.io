@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /working/
-title: Working Experience
+title: Working
 description: 
 nav: true
 nav_order: 5
 ---
+
+**WORK AND PRACTICAL EXPERIENCE**
 
 - **2019.7–2019.8  Team Leader of Tsinghua-Kuwait Overseas Social Practice, Tsinghua University**
 
