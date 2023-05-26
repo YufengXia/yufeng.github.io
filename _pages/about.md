@@ -19,12 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
 Hello! I am Yufeng Xia, a PhD student from the School of Journalism and Communication at Tsinghua University (China), and will graduate in June 2023. My research areas are political communication and environmental communication. I focuse on content design and media effect of social media, with three papers accepted by ICA and IAMCR conferences and two studies about higher education published in leading China's journals, as well as serving as reviewers for both conferences. I specialize in data-driven communication research.
 
 The title of my doctoral dissertation is ***Climate Communication and Citizen Participation in Climate Change Public Sphere***. This dissertation explores how the public sphere of climate change in China is constructed and developed through social media, driven by the state and the public, and it does so from the perspectives of macro-level national climate governance, meso-level climate policy debates, and micro-level media effects, respectively.
@@ -41,9 +35,9 @@ The title of my doctoral dissertation is ***Climate Communication and Citizen Pa
 
 - 2009–2013  **B.S. in Psychology, Wuhan University**, China
 
-  *(Ranking 3/60, GPA 3.7/4.0)**
+  *(Ranking 3/60, GPA 3.7/4.0)*
 
-  ***Three universities and majors are among the top in China*
+  *Three universities and majors are among the top in China*
 
 **PUBLICATION** 
 
