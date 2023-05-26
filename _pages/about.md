@@ -33,17 +33,17 @@ The title of my doctoral dissertation is ***Climate Communication and Citizen Pa
 
 - 2018–2023.6 **PhD Student, Tsinghua University**, China
 
-  - **Journalism & Communication** *(Ranking 2/30, GPA 3.9/4.0)*
+  **Journalism & Communication** *(Ranking 2/30, GPA 3.9/4.0)*
 
 - 2016–2018  **Master, Sun Yat-sen University**, China
 
-  - **Political Communication** *(Ranking No.1)*
+  **Political Communication** *(Ranking No.1)*
 
 - 2009–2013  **B.S. in Psychology, Wuhan University**, China
 
-  - *(Ranking 3/60, GPA 3.7/4.0)*
+  *(Ranking 3/60, GPA 3.7/4.0)**
 
-  - **Three universities and majors are among the top in China*
+  ***Three universities and majors are among the top in China*
 
 **PUBLICATION** 
 
