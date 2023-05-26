@@ -1,12 +1,17 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**TEACHING**
 
-Organize your courses by years, topics, or universities, however you like!
+- 2020.2-2022.1 **Teaching Assistant for News Writing Course**, Tsinghua University (four semesters, recommended as Outstanding Teaching Assistant)
+- 2019.8-2020.1 **Teaching Assistant for Media Innovation and Entrepreneurship Program**
+  - Served as a teaching assistant for junior news writing course for two semesters and senior news writing course for two semesters, participated in co-teaching 2 lessons. Participated in the revision of course syllabus and preparation of test papers, independently reviewed 192 in-depth news reporting assignments and wrote 300 words of comments for each assignment. Answer questions and solve problems for students in the class every week, and students evaluate the class as "good content, good teacher, and good teaching assistant".
+  - Thesis Supervising: Assisted in supervising 4 undergraduate theses and 7 master's theses
+- 2015.5–2016.8 **Research Assistant (Administrative Staff), Big Data & Communication Lab**, Sun Yat-Sen University
+  - Participated in data analysis and visualization project, recruited 50 student assistants for the newly established lab, and conducted team formation, module management, project implementation and progress monitoring based on company management model
