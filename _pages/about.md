@@ -64,7 +64,7 @@ The title of my doctoral dissertation is ***Climate Communication and Citizen Pa
 
 **PROFESSIONAL WORKING EXPERIENCE**
 
-- 2015.5–2016.8 **Research Assistant (Administrative Staff), Big Data & Communication Lab**, Sun Yat-Sen University
+- 2015–2016 **Research Assistant (Administrative Staff), Big Data & Communication Lab**, Sun Yat-Sen University
 
   Participated in data analysis and visualization project, recruited student assistants for the newly established lab, and conducted team formation, module management, project implementation and progress monitoring
 
