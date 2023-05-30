@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>yufeng.yfxia@gmail.com</p>
-    <p>Twitter: <a href="https://twitter.com/YfYufeng" target="_blank">@YfYufeng</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -77,5 +76,4 @@ The title of my doctoral dissertation is ***Climate Communication and Citizen Pa
 **CONTACT**
 
 -  **E-mail**: yufeng.yfxia@gmail.com
--  **Twitter**: <a href="https://twitter.com/YfYufeng" target="_blank">@YfYufeng</a>
 
