@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>yufeng.yfxia@gmail.com</p>
+    <p>yufeng_xia@outlook.com</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -75,5 +75,5 @@ The title of my doctoral dissertation is ***Climate Communication and Citizen Pa
 
 **CONTACT**
 
--  **E-mail**: [yufeng_xia@outlook.com]()
+-  **E-mail**: yufeng_xia@outlook.com
 
