@@ -59,7 +59,7 @@ The title of my doctoral dissertation is ***Climate Communication and Citizen Pa
 **BOOKS** 
 
 - 2020-2021 Participated in the writing and proofreading of the textbook ***Elementary News Writing Course*** (Editor-in-chief: [Prof. Fanxu Zeng](https://www.tsjc.tsinghua.edu.cn/en/info/1029/1302.htm), Tsinghua University)
-- 2021-2022 Pre-publication editing and proofreading of *[**Environmental Risk Communication in China**](https://www.routledge.com/Environmental-Risk-Communication-in-China-Actors-Issues-and-Governance/Dai-Zeng/p/book/9781032103303)* (Editors: [Prof. Fanxu Zeng](https://www.tsjc.tsinghua.edu.cn/en/info/1029/1302.htm) & [Prof. Jia Dai](https://www.tsjc.tsinghua.edu.cn/en/info/1029/1295.htm), Tsinghua University)
+- 2021-2022 Pre-publication editing and proofreading of *[**Environmental Risk Communication in China**](https://www.routledge.com/Environmental-Risk-Communication-in-China-Actors-Issues-and-Governance/Dai-Zeng/p/book/9781032103303)* (Editors:  [Prof. Jia Dai](https://www.tsjc.tsinghua.edu.cn/en/info/1029/1295.htm) & [Prof. Fanxu Zeng](https://www.tsjc.tsinghua.edu.cn/en/info/1029/1302.htm), Tsinghua University)
 
 **PROFESSIONAL WORKING EXPERIENCE**
 
@@ -75,5 +75,5 @@ The title of my doctoral dissertation is ***Climate Communication and Citizen Pa
 
 **CONTACT**
 
--  **E-mail**: yufeng.yfxia@gmail.com
+-  **E-mail**: [yufeng_xia@outlook.com]()
 
